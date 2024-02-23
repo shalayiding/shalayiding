@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I am Aierken</h1>
 
-- ⚡ Fun fact ** The First Computer Bug was a Real Bug**.
+- ⚡ Fun fact **The First Computer Bug was a Real Bug**.
 
 <img align="right" alt="Coding" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa10ab5d-82c2-40e3-a748-6d12d7b3702a/devnwfm-22dabb27-9d10-42ed-b30c-8cdf8efcb687.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhMTBhYjVkLTgyYzItNDBlMy1hNzQ4LTZkMTJkN2IzNzAyYVwvZGV2bndmbS0yMmRhYmIyNy05ZDEwLTQyZWQtYjMwYy04Y2RmOGVmY2I2ODcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CNzBI_jZKnx6vOTm_1vTlRulsY3jw3VyM8sGePrfbVs">
 
