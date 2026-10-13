@@ -31,10 +31,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalayiding&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalayiding&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api?username=shalayiding&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats" />
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=shalayiding&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
 </p>
-
 ---
 
 ### 🧪 Runtime
